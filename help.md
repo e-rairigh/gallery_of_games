@@ -22,7 +22,7 @@ Description: dsecription of you game-->
 <p>and then add 
     
 ```html
-</head><body><a href="./gallery.html">Back</a>
+<a href="./gallery.html">Back</a>
 ```
 some where between
 ```html
