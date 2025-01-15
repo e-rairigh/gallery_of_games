@@ -43,4 +43,4 @@ and
 <p>follow the instructions in the comment</p>
 </div>
 <h2></h2>
-<footer>if you know better and/or have a better idea use that instead</footer>
+<footer>if you know better and/or have a better idea, use that instead</footer>
