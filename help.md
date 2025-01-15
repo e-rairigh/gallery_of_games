@@ -37,7 +37,7 @@ and
 <p>draw a PNG file for the icon, and put it in images</p>
 <h3 id="4">step .4</h3>
 <p>put the the PNG file in the <a href="./images/">./images</a> folder</p>
-<h id="5">step .5</h3>
+<h3>step .5</h3>
 <p>open up gallery.html, and go to lines 68-script</p>
 <h3 id="6">step .6</h3>
 <p>follow the instructions in the comment</p>
