@@ -12,7 +12,7 @@
 <p>Optional: start your index.html with</p>
                 
 ```html
-<!-
+<!--
 Athor:your name
 Description: dsecription of you game-->
 <!DOCTYPE html>
