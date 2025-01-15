@@ -1,8 +1,8 @@
 <a href="./README.md">🏠Back</a>
     <h1>HELP</h1>
-    </head>
         <h2 id="table">table of contents</h2><div class="contents">
-        <a href="#add_games">adding games</a>
+        <a href="#add_games">adding games</a><br>
+        <a href="#Disclaimer">Disclaimer</a>
         </div>
         <h2>Adding games</h2>
         <div id="add_games">
@@ -18,6 +18,6 @@
                 <p>open up gallery.html, and go to lines 68-script</p>
             <h3>step .7</h3>
                 <p>follow the instructions in the comment</p>
-            <h3>Disclaimer</h3>
+            <h3 id="Disclaimer">Disclaimer</h3>
                 <p>if you know better or have a better ideas use them insted</p>
         </div>
