@@ -9,7 +9,7 @@
 <p>clone/branch <a href="https://github.com/e-rairigh/gallery_of_games">gallery_of_games</a></p>
 <h3 id="2">step .2</h3>
 <p>make a new folder containing you game in you clone at ./gallery_of_games/</p>
-<p>Optional: start your index.html with</p>
+<h4>Optional:</h4><p>start your index.html with</p>
                 
 ```html
 <!--
