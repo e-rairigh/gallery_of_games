@@ -41,6 +41,6 @@ and
 <p>open up gallery.html, and go to lines 68-script</p>
 <h3 id="6">step .6</h3>
 <p>follow the instructions in the comment</p>
-<h3 id="Disclaimer">Disclaimer</h3>
-<p>if you know better or have a better ideas use them insted</p>
 </div>
+<h2></h2>
+<footer>if you know better and/or have a better idea use that instead</footer>
