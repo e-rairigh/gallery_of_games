@@ -2,12 +2,6 @@
 <h1>HELP</h1>
 <h2 id="table">table of contents</h2><div class="contents">
 <a href="#add_games">adding games</a><br>
-    <a href="1">step 1</a><br>
-    <a href="2">step 2</a><br>
-    <a href="3">step 3</a><br>
-    <a href="4">step 4</a><br>
-    <a href="5">step 5</a><br>
-    <a href="6">step 6</a><br>
 </div>
 <h2>Adding games</h2>
 <div id="add_games">
