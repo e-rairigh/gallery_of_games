@@ -1,4 +1,4 @@
-<a href="./gallery.html">🏠Gallery</a>
+<a href="./README.md">🏠Back</a>
     <h1>HELP</h1>
     </head>
         <h2 id="table">table of contents</h2><div class="contents">
